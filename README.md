@@ -6,7 +6,7 @@ LungLife Analytics is an advanced platform designed to enhance lung cancer diagn
 
 ## OBJECTIVES
 
-Analyze Survival Rates: Evaluate survival rates of lung cancer patients based on various demographic, clinical, and treatment-related factors.
+Analyze Survival Rates: Evaluate survival rates of lung cancer patients based on various demographic, clinical, and treatment-related factors. 
 Identify Significant Predictors: Determine key predictors influencing survival outcomes, such as age, gender, stage at diagnosis, histological type, and treatment modalities.
 Develop Predictive Models: Utilize machine learning algorithms to develop predictive models for lung cancer survival, aiding in early detection and personalized treatment.
 Enhance Understanding: Contribute to the existing knowledge base by providing a comprehensive analysis of survival rates and the impact of different variables on patient outcomes.
