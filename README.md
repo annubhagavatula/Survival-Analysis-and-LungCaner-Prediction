@@ -1,10 +1,10 @@
-Survival-Analysis-and-LungCaner-Prediction
-LungLife Analytics
+# Survival-Analysis-and-LungCaner-Prediction
+# LungLife Analytics
 
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 LungLife Analytics is an advanced platform designed to enhance lung cancer diagnosis and survival analysis through the application of sophisticated machine learning techniques. This project combines extensive data analysis, robust machine learning models, and a user-friendly web interface to provide accurate predictions and valuable insights for early detection and personalized treatment planning.
 
-OBJECTIVES
+## OBJECTIVES
 
 Analyze Survival Rates: Evaluate survival rates of lung cancer patients based on various demographic, clinical, and treatment-related factors.
 Identify Significant Predictors: Determine key predictors influencing survival outcomes, such as age, gender, stage at diagnosis, histological type, and treatment modalities.
@@ -13,32 +13,32 @@ Enhance Understanding: Contribute to the existing knowledge base by providing a 
 Support Clinical Decision-Making: Offer valuable information to healthcare professionals for informed decisions regarding diagnosis, treatment, and management of lung cancer patients.
 Improve Patient Outcomes: Identify strategies and interventions to improve survival and quality of life for lung cancer patients through targeted and personalized care.
 
-METHODOLOGY
+## METHODOLOGY
 
-Data Collection and Preprocessing:
+### Data Collection and Preprocessing:
 Gathered and preprocessed data on lung cancer patients, ensuring data quality and completeness.
 
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 Conducted EDA to gain insights, identify patterns, and visualize relationships between variables.
 
-Model Development:
+### Model Development:
 -Developed predictive models using algorithms such as MLP Classifier and Random Forest.
 -Achieved 99% accuracy in classification tasks, predicting benign, malignant, and normal cases from X-ray scans.
 
-Implementation of Web Interface:
+### Implementation of Web Interface:
 Created a user-friendly web platform allowing users to upload X-ray images and receive instant feedback on potential diagnoses.
 
-Validation and Evaluation:
+### Validation and Evaluation:
 Validated model performance through rigorous testing and evaluation, ensuring reliability and precision.
 
-KEY FEATURES
+## KEY FEATURES
 -High Accuracy: Achieved 99% accuracy in predicting lung cancer cases.
 -User-Friendly Interface: Easy-to-use platform for uploading lung X-ray images and receiving instant predictions.
 -Personalized Insights: Provides personalized insights and recommendations based on patient data.
 -Comprehensive Analysis: Detailed analysis of survival rates and factors influencing lung cancer outcomes.
 -Robust Pre-trained Model: Reliable and precise model validated through extensive testing.
 
-FUTURE ENHANCEMENTS
+## FUTURE ENHANCEMENTS
 -Integration with Electronic Health Records (EHR)
 -Multi-modal Data Analysis
 -Personalized Treatment Recommendations
